@@ -1,0 +1,15 @@
+#btn {
+  border-radius: 20%;
+  width: 50px;
+  font-family: "Raleway", sans-serif;
+  background-color: white;
+  color: black;
+  height: 30px;
+  width: 100px;
+}
+
+#btn:hover {
+  cursor: pointer;
+  background-color: black;
+  color: white;
+}
